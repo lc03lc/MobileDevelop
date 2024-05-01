@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Live",
+    "pages/MusicComment",
+    "pages/MusicList",
+    "pages/PlayPage",
+    "pages/MusicList2",
+    "pages/MusicList3",
+    "pages/MusicList4",
+    "pages/MyPage",
+    "pages/MyPage2"
+  ]
+}

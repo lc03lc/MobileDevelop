@@ -1,0 +1,1059 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:9:3.2.12.5:Release",
+  "fileList": {
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1702650392149.1655,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1702647609387.9397,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\IndexItem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\IndexViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\HomeConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Live.ets": {
+      "mtimeMs": 1695265531474.6912,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\Header.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\LiveList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\LiveConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets": {
+      "mtimeMs": 1697681270608.0374,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\Comment.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\CommentViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\ListItemComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\HeadComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\MusicInfoComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets": {
+      "mtimeMs": 1695265531475.6882,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\SongConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Header.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Content.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets": {
+      "mtimeMs": 1697681270609.0344,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\LyricsComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\IndexItem.ets": {
+      "mtimeMs": 1697681270613.024,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Index.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\IndexViewModel.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\IndexViewModel.ets": {
+      "mtimeMs": 1702646783894.08,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\IndexItem.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets": {
+      "mtimeMs": 1695265531465.7148,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Index.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\ListItemComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\HeadComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\MusicInfoComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Header.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Content.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumCover.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\LyricsComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets": {
+      "mtimeMs": 1695265531461.7244,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Index.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumCover.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\HomeConstants.ets": {
+      "mtimeMs": 1695265531463.7202,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\Header.ets": {
+      "mtimeMs": 1695265531477.6936,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\LiveConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Live.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\LiveList.ets": {
+      "mtimeMs": 1702635002435.683,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\LiveStream.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\LiveConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\LiveStreamViewModel.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Live.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\LiveConstants.ets": {
+      "mtimeMs": 1695265531463.7202,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\Live.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\Header.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\LiveList.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\LiveStream.ets": {
+      "mtimeMs": 1697681270614.0212,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\LiveList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\LiveStreamViewModel.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\LiveStreamViewModel.ets": {
+      "mtimeMs": 1702634884923.19,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\LiveStream.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\LiveList.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\Comment.ets": {
+      "mtimeMs": 1697681270612.0256,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\CommentViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\ListItemComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\CommentViewModel.ets": {
+      "mtimeMs": 1702644875031.4373,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\Comment.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\ListItemComponent.ets": {
+      "mtimeMs": 1697681270610.0315,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\Comment.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\HeadComponent.ets": {
+      "mtimeMs": 1695265531476.686,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\MusicInfoComponent.ets": {
+      "mtimeMs": 1697681270611.0305,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\RouterUrlConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1695265531461.7244,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicComment.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\ListItemComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets": {
+      "mtimeMs": 1695265531467.7097,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\MusicInfoComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\SongItemBuilder.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\PreferencesUtil.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BackgroundUtil.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaTools.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets": {
+      "mtimeMs": 1697681270617.0132,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\MusicInfoComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\SongItemBuilder.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\CardData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongDataSource.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\LyricsComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets": {
+      "mtimeMs": 1702692391114.204,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\MusicInfoComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\LyricsComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\RouterUrlConstants.ets": {
+      "mtimeMs": 1695265531464.7178,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\view\\MusicInfoComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongListData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets": {
+      "mtimeMs": 1695265531467.7097,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Header.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\LyricsComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets": {
+      "mtimeMs": 1697681270600.0579,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\SongItemBuilder.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\PreferencesUtil.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\CardData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BackgroundUtil.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaTools.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\SongConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\SongConstants.ets": {
+      "mtimeMs": 1695265531464.7178,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Header.ets": {
+      "mtimeMs": 1702636562849.8855,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MenuData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\HeaderConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets": {
+      "mtimeMs": 1697681270607.0398,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\RouterUrlConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayerConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Content.ets": {
+      "mtimeMs": 1695265531470.702,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\GridConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumCover.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.mediaquery.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\SongItemBuilder.ets": {
+      "mtimeMs": 1697681270602.0537,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicData.ets": {
+      "mtimeMs": 1695265531479.6775,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\PreferencesUtil.ets": {
+      "mtimeMs": 1697681270601.0552,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\CardData.ets": {
+      "mtimeMs": 1697681270612.0256,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BackgroundUtil.ets": {
+      "mtimeMs": 1697681270600.0579,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaTools.ets": {
+      "mtimeMs": 1695265531468.7065,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.multimedia.media.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.multimedia.audio.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\AbilityStageContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\ExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\FormExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityHelper.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityOperation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.ability.featureAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\startAbilityParameter.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\app\\context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\applicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\hapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\abilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\bundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.dataAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.rdb.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.form.formProvider.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.form.formInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.preferences.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.wantAgent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\wantAgent\\wantAgentInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.wantAgent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\wantAgent\\triggerInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.resourceschedule.backgroundTaskManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MenuData.ets": {
+      "mtimeMs": 1697681270615.0193,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Header.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\HeaderConstants.ets": {
+      "mtimeMs": 1695265531463.7202,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Header.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.promptAction.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayerConstants.ets": {
+      "mtimeMs": 1695265531464.7178,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Player.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\GridConstants.ets": {
+      "mtimeMs": 1695265531462.7217,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Content.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumCover.ets": {
+      "mtimeMs": 1695265531469.7046,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Content.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets": {
+      "mtimeMs": 1697681270606.0425,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\RouterUrlConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongDataSource.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ContentConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\Content.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets": {
+      "mtimeMs": 1702646754894.5847,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\GridConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongListData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongListData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ContentConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumCover.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongListData.ets": {
+      "mtimeMs": 1695265531481.6719,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\RouterUrlConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ContentConstants.ets": {
+      "mtimeMs": 1695265531461.7244,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\AlbumComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongDataSource.ets": {
+      "mtimeMs": 1697681270617.0132,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayList.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets": {
+      "mtimeMs": 1697681270603.0505,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayControlModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ControlConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\LyricsComponent.ets": {
+      "mtimeMs": 1702648807500.7139,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets": {
+      "mtimeMs": 1702649026692.3398,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\SongData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicListViewModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\RouterUrlConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\StyleConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ControlConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayControlModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayConstants.ets": {
+      "mtimeMs": 1695265531463.7202,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\PlayPage.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\LyricsComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayControlModel.ets": {
+      "mtimeMs": 1697681270616.0156,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ControlConstants.ets": {
+      "mtimeMs": 1695265531462.7217,
+      "children": [],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayData.ets": {
+      "mtimeMs": 1697681270617.0132,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayControlModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ControlConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\MusicInfoComponent.ets"
+      ],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\PlayControlComponent.ets": {
+      "mtimeMs": 1697681270605.0452,
+      "children": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\MediaService.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\MusicData.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\viewmodel\\PlayControlModel.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\ControlConstants.ets",
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\common\\constants\\PlayConstants.ets"
+      ],
+      "parent": [
+        "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\components\\ControlComponent.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\admin\\AppData\\Local\\Huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList2.ets": {
+      "mtimeMs": 1702693084827.433,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList3.ets": {
+      "mtimeMs": 1702644824603.987,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MusicList4.ets": {
+      "mtimeMs": 1702645752402.5137,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MyPage.ets": {
+      "mtimeMs": 1702647203179.36,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\lc03lc\\download\\files\\MultiDeviceMusic\\entry\\src\\main\\ets\\pages\\MyPage2.ets": {
+      "mtimeMs": 1702647231323.569,
+      "children": [],
+      "parent": [],
+      "error": false
+    }
+  }
+}
