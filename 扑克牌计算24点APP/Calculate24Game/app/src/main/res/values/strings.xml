@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculate 24 Game</string>
+    <string name="startButton">开始游戏</string>
+    <string name="success_tip">请选择4张卡牌再计算结果哦！</string>
+</resources>
